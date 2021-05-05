@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SPSS-care.com",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/care-spss",
+    "feed_url": "https://shameerpuri.github.io/care-spss/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer Puri Security Services"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/care-spss/try.html",
+            "url": "https://shameerpuri.github.io/care-spss/try.html",
+            "title": "try",
+            "author": {
+                "name": "Shameer Puri Security Services"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-20T19:48:12+05:30",
+            "date_modified": "2021-01-20T19:48:12+05:30"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SPSS-care.com</title>
+    <link href="https://shameerpuri.github.io/care-spss/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/care-spss" />
+    <updated>2021-01-20T19:48:12+05:30</updated>
+    <author>
+        <name>Shameer Puri Security Services</name>
+    </author>
+    <id>https://shameerpuri.github.io/care-spss</id>
+
+    <entry>
+        <title>try</title>
+        <author>
+            <name>Shameer Puri Security Services</name>
+        </author>
+        <link href="https://shameerpuri.github.io/care-spss/try.html"/>
+        <id>https://shameerpuri.github.io/care-spss/try.html</id>
+
+        <updated>2021-01-20T19:48:12+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
